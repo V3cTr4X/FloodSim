@@ -9,7 +9,7 @@ This tool is intended solely for ethical testing and benchmarking on systems and
 
 # Installation
 
-Install my-project with npm
+Clone and start the projecth with:
 
 ```bash
   git clone https://github.com/v3ctr4x/FloodSim
